@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/forag/AndroidStudioProjects/PiApp/app/src/main/res/drawable/wide_circle.xml" value="0.252" />
         <entry key="..\:/Users/forag/AndroidStudioProjects/PiApp/app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="..\:/Users/forag/AndroidStudioProjects/PiApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
-        <entry key="..\:/Users/forag/AndroidStudioProjects/PiApp/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/forag/AndroidStudioProjects/PiApp/app/src/main/res/layout/activity_register.xml" value="0.17" />
       </map>
     </option>
   </component>
