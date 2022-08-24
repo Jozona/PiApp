@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770336573422",
+    "project_id": "piapp-3c4be",
+    "storage_bucket": "piapp-3c4be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770336573422:android:0ff65761ea36af77d030ff",
+        "android_client_info": {
+          "package_name": "lic.jeeg.piapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770336573422-rbj6036ou0qtpao90bdiv9e44v1nia4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7T_hh_Pb2X_giPgVgkDW0mgM-lFHbtZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770336573422-rbj6036ou0qtpao90bdiv9e44v1nia4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
