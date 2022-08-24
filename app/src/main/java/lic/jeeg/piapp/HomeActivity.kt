@@ -15,6 +15,9 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
 
+        //TODO: Link register and login activity with each other
+
+
         //Setup
         val bundle = intent.extras
         val email =  bundle?.getString("email")
